@@ -26,3 +26,12 @@ Please tell us if you would be prepared to be the maintainer of the new project 
 
 **Additional information**
 Please add any other information to help us assess the suggestion.
+
+---
+
+## Checklist before suggesting a new rollyourown.xyz project or module
+
+Before submitting suggesting a new rollyourown.xyz project or module, please check that you have done the following and mark with an [x], where applicable:
+
+- [ ] I read and followed the contributing guidelines at [https://rollyourown.xyz/collaborate/](https://rollyourown.xyz/collaborate/)
+- [ ] I read the section on Project and Module Development at [https://rollyourown.xyz/collaborate/project_and_module_development/](https://rollyourown.xyz/collaborate/project_and_module_development/)
