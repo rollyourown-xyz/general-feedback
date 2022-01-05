@@ -18,9 +18,9 @@ For more information, see [our guide for raising security vulnerabilities](https
 
 Please use the Issues in a specific [rollyourown.xyz project](https://rollyourown.xyz/rollyourown/) repository for submitting bug reports, feature requests or suggestions for an existing project or module.
 
-Please use the Issues in the website [content](https://github.com/rollyourown-xyz/ryo-website-hugo-content) or [theme](https://github.com/rollyourown-xyz/ryo-website-hugo-theme) repositories for bug reports or suggestions for [rollyourown.xyz website](https://rollyourown.xyz) content or the rollyourown.xyz website design
+Please use the Issues in the [website content](https://rollyourown.xyz/collaborate/website_content) repository for bug reports or suggestions for the [rollyourown.xyz website](https://rollyourown.xyz).
 
-For general feedback and ideas for rollyourown.xyz that are not specific to a project, a module, the website content or the website design, please submit an [Issue](https://github.com/rollyourown-xyz/general-feedback/issues). Before submitting an issue, please search the existing issues in case the topic has already been addressed.
+For general feedback and ideas for rollyourown.xyz that are not specific to a project, a module or the website content, please submit an [Issue](https://rollyourown.xyz/collaborate/bug_reports_feature_requests_ideas/#raising-an-issue). Before submitting an issue, please search the existing issues in case the topic has already been addressed.
 
 For more information, see [our guide to contributing bug reports, feature requests and ideas](https://rollyourown.xyz/collaborate/bug_reports_feature_requests_ideas/).
 
