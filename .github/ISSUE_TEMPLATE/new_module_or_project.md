@@ -10,7 +10,7 @@ assignees: ''
 This template is for suggesting a **new** project or module:
 
 - Please use the Issues in the specific [rollyourown.xyz project](https://rollyourown.xyz/rollyourown/) repository for submitting bug reports, feature requests or suggestions for an existing project or module
-- Please use the Issues in the website [content](https://github.com/rollyourown-xyz/ryo-website-hugo-content) or [theme](https://github.com/rollyourown-xyz/ryo-website-hugo-theme) repositories for bug reports or suggestions for [rollyourown.xyz website](https://rollyourown.xyz) content or the rollyourown.xyz website design
+- Please use the Issues in the website content mirror repositories [on Codeberg](https://codeberg.org/rollyourown-xyz/ryo-website-hugo-content/issues) or [on GitHub](https://github.com/rollyourown-xyz/ryo-website-hugo-content/issues) for bug reports or suggestions for [rollyourown.xyz website](https://rollyourown.xyz) content
 
 **New project or module description**
 Please add a short description of the project or module you would like to suggest.
