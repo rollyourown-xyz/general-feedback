@@ -6,6 +6,10 @@ labels: 'enhancement'
 assignees: ''
 
 ---
+<!--
+SPDX-FileCopyrightText: 2022 Wilfred Nicoll <xyzroller@rollyourown.xyz>
+SPDX-License-Identifier: CC-BY-SA-4.0
+-->
 
 This template is for suggesting a **new** project or module:
 
