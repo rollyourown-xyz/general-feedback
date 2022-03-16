@@ -32,3 +32,23 @@ For more information, see [our guide to contributing bug reports, feature reques
 ### Pull Requests
 
 This is an issues-only repository for general feedback for the [rollyourown.xyz](https://rollyourown.xyz) project and for suggesting new projects or modules. The repository contains no code. Pull requests to this repository will be ignored or closed.
+
+## Licensing
+
+We use [Software Package Data Exchange (SPDX)](https://spdx.dev/) licensing and copyright information in each source file in our repositories. We request any contributor to add SPDX information to any new file submitted and to include additional copyright information in modified files, where applicable.
+
+In addition, when submitting a Pull Request to our project we ask contributors to agree with the terms of the [Developer Certificate of Origin (DCO)](https://developercertificate.org/) to certify that the contributor has the right to make the contribution to our project. As well as ticking the checkbox in the Pull Request template, we recommend signing off each commit. To do this, configure your Git username and email address for the repository with:
+
+```console
+git config user.name "<USERNAME>"
+git config user.email "<EMAIL ADDRESS>"
+```
+
+or globally with:
+
+```console
+git config --global user.name "<USERNAME>"
+git config --global user.email "<EMAIL ADDRESS>"
+```
+
+Signoff is then automatic when using the `-s` flag with the `git commit` command.
