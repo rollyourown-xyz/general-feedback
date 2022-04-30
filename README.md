@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 Thank you in advance for your feedback and ideas!
 
-This is an **issues-only** repository for general feedback for the [rollyourown.xyz](https://rollyourown.xyz) project and for suggesting new projects or modules. The repository contains no code. Pull requests to this repository will be ignored or closed.
+This is an **issues-only** repository for general feedback for the rollyourown project and for suggesting new projects or modules. The repository contains no code. Pull requests to this repository will be ignored or closed.
 
 General feedback can be submitted [on Codeberg](https://codeberg.org/rollyourown-xyz/general-feedback/issues), [on GitHub](https://github.com/rollyourown-xyz/general-feedback/issues), [on GitLab](https://gitlab.com/rollyourown-xyz/general-feedback/-/issues) or, alternatively, via our [contact form](https://forms.rollyourown.xyz/contact-us).
 
