@@ -1,6 +1,6 @@
 ---
 name: New module or project
-about: Suggest a new rollyourown.xyz project or module
+about: Suggest a new rollyourown project or module
 title: '[NEW]'
 labels: 'enhancement'
 assignees: ''
@@ -13,8 +13,8 @@ SPDX-License-Identifier: CC-BY-SA-4.0
 
 This template is for suggesting a **new** project or module:
 
-- Please use the Issues in the specific [rollyourown.xyz project](https://rollyourown.xyz/rollyourown/) repository for submitting bug reports, feature requests or suggestions for an existing project or module
-- Please use the Issues in the website content mirror repositories [on Codeberg](https://codeberg.org/rollyourown-xyz/ryo-website-hugo-content/issues) or [on GitHub](https://github.com/rollyourown-xyz/ryo-website-hugo-content/issues) for bug reports or suggestions for [rollyourown.xyz website](https://rollyourown.xyz) content
+- Please use the Issues in the specific [rollyourown project](https://rollyourown.xyz/rollyourown/) repository for submitting bug reports, feature requests or suggestions for an existing project or module
+- Please use the Issues in the website content mirror repositories [on Codeberg](https://codeberg.org/rollyourown-xyz/ryo-website-hugo-content/issues) or [on GitHub](https://github.com/rollyourown-xyz/ryo-website-hugo-content/issues) for bug reports or suggestions for [rollyourown website](https://rollyourown.xyz) content
 
 **New project or module description**
 Please add a short description of the project or module you would like to suggest.
@@ -33,9 +33,9 @@ Please add any other information to help us assess the suggestion.
 
 ---
 
-## Checklist before suggesting a new rollyourown.xyz project or module
+## Checklist before suggesting a new rollyourown project or module
 
-Before suggesting a new rollyourown.xyz project or module, please check that you have done the following and mark with an [x], where applicable:
+Before suggesting a new rollyourown project or module, please check that you have done the following and mark with an [x], where applicable:
 
 - [ ] I read and followed the contributing guidelines at [https://rollyourown.xyz/collaborate/](https://rollyourown.xyz/collaborate/)
 - [ ] I read the section on Project and Module Development at [https://rollyourown.xyz/collaborate/project_and_module_development/](https://rollyourown.xyz/collaborate/project_and_module_development/)

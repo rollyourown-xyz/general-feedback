@@ -11,7 +11,7 @@ This is an **issues-only** repository for general feedback for the rollyourown p
 
 General feedback can be submitted [on Codeberg](https://codeberg.org/rollyourown-xyz/general-feedback/issues), [on GitHub](https://github.com/rollyourown-xyz/general-feedback/issues), [on GitLab](https://gitlab.com/rollyourown-xyz/general-feedback/-/issues) or, alternatively, via our [contact form](https://forms.rollyourown.xyz/contact-us).
 
-To provide feedback to a specific rollyourown.xyz [project](https://rollyourown.xyz/rollyourown/projects/) or [module](https://rollyourown.xyz/rollyourown/project_modules/), please submit an issue in the repository for that project or module.
+To provide feedback to a specific rollyourown [project](https://rollyourown.xyz/rollyourown/projects/) or [module](https://rollyourown.xyz/rollyourown/project_modules/), please submit an issue in the repository for that project or module.
 
 ## Copyright, Licences and Trademarks
 
